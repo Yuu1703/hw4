@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">Homework4</string>
+    <string name="title">The Information Book App</string>
+
+    <!-- Content descriptions for accessibility -->
+    <string name="book_icon_desc">Book icon</string>
+    <string name="countries_image_desc">Countries flags image</string>
+    <string name="leaders_image_desc">World leaders image</string>
+    <string name="museums_image_desc">Museums image</string>
+    <string name="wonders_image_desc">Seven wonders image</string>
+
+    <!-- Card titles -->
+    <string name="countries_title">The Countries</string>
+    <string name="leaders_title">The leaders</string>
+    <string name="museums_title">The museums</string>
+    <string name="wonders_title">Seven Wonders of The World</string>
+
+    <string name="uk">UK</string>
+    <string name="italy">Italy</string>
+    <string name="france">France</string>
+    <string name="uk_image_desc">Flag of United Kingdom</string>
+    <string name="italy_image_desc">Flag of Italy</string>
+    <string name="france_image_desc">Flag of France</string>
+    <string name="uk_capital">Capital : London</string>
+    <string name="uk_largest_city">Largest City : London</string>
+    <string name="uk_language">National Language : English</string>
+    <string name="uk_area">F Total Area : 242,495 km2</string>
+    <string name="uk_currency">Currency : GBP</string>
+    <string name="uk_description">The United Kingdom of Great Britain and Northern Ireland, commonly known as the United Kingdom (UK) or Britain, is a country in Northwestern Europe, off the coast of the continental mainland. It comprises England, Scotland, Wales, and Northern Ireland.</string>
+    <string name="italy_capital">Capital : Rome</string>
+    <string name="italy_largest_city">Largest City : Rome</string>
+    <string name="italy_language">National Language : Italian</string>
+    <string name="italy_area">F Total Area : 301,340 km2</string>
+    <string name="italy_currency">Currency : EUR</string>
+    <string name="italy_description">Italy is a country located in Southern Europe, famous for its ancient culture, including Rome, Venice, and Florence.</string>
+    <string name="france_capital">Capital : Paris</string>
+    <string name="france_largest_city">Largest City : Paris</string>
+    <string name="france_language">National Language : French</string>
+    <string name="france_area">F Total Area : 643,801 km2</string>
+    <string name="france_currency">Currency : EUR</string>
+    <string name="france_description">France is a country located in Western Europe, known for its rich culture, including the Eiffel Tower, Louvre Museum, and culinary traditions.</string>
+    <string name="france_leader">Leader : Emmanuel Macron</string>
+    <string name="france_leader_term">Term : 17 May 2017 - Present</string>
+    <string name="france_leader_party">Political Party : La République En Marche</string>
+    <string name="france_leader_description">Emmanuel Macron is the President of France, known for his pro-European stance and reforms in labor laws and taxation.</string>
+    <string name="uk_leader">Leader : Keir Starmer</string>
+    <string name="uk_leader_term">Term : 5 July 2024 - Present</string>
+    <string name="uk_leader_party">Political Party : Labour Party</string>
+    <string name="uk_leader_description">Keir Starmer is the Prime Minister of the United Kingdom, leading the Labour Party to victory in the 2024 general election.</string>
+    <string name="italy_leader">Leader : Giorgia Meloni</string>
+    <string name="italy_leader_term">Term : 22 October 2022 - Present</string>
+    <string name="italy_leader_party">Political Party : Brothers of Italy</string>
+    <string name="italy_leader_description">Giorgia Meloni is the Prime Minister of Italy, leading a right-wing coalition government since 2022.</string>
+    <string name="france_leader_image_desc">Image of Emmanuel Macron</string>
+    <string name="uk_leader_image_desc">Image of Keir Starmer</string>
+    <string name="italy_leader_image_desc">Image of Giorgia Meloni</string>
+    <string name="france_museum">Museum : Musée du Louvre</string>
+    <string name="france_museum_location">Location : Paris, France</string>
+    <string name="france_museum_established">Established : 1793</string>
+    <string name="france_museum_description">The Louvre Museum is one of the world\'s largest and most visited museums, housing over 35,000 works of art, including the Mona Lisa.</string>
+    <string name="uk_museum">Museum : British Museum</string>
+    <string name="uk_museum_location">Location : London, UK</string>
+    <string name="uk_museum_established">Established : 1753</string>
+    <string name="uk_museum_description">The British Museum is renowned for its extensive collection of over 8 million works, including the Rosetta Stone.</string>
+    <string name="italy_museum">Museum : Galleria degli Uffizi</string>
+    <string name="italy_museum_location">Location : Florence, Italy</string>
+    <string name="italy_museum_established">Established : 1581</string>
+    <string name="italy_museum_description">The Uffizi Gallery is a prominent art museum, famous for its collection of Renaissance masterpieces by artists like Botticelli and Michelangelo.</string>
+    <string name="france_museum_image_desc">Image of Musée du Louvre</string>
+    <string name="uk_museum_image_desc">Image of British Museum</string>
+    <string name="italy_museum_image_desc">Image of Galleria degli Uffizi</string>
+    <string name="france_wonder">Wonder : Mont Saint-Michel</string>
+    <string name="france_wonder_location">Location : Normandy, France</string>
+    <string name="france_wonder_built">Built : 8th Century</string>
+    <string name="france_wonder_description">Mont Saint-Michel is a historic island commune known for its stunning abbey and tidal island, a UNESCO World Heritage site.</string>
+    <string name="uk_wonder">Wonder : Stonehenge</string>
+    <string name="uk_wonder_location">Location : Wiltshire, UK</string>
+    <string name="uk_wonder_built">Built : 3000-2000 BC</string>
+    <string name="uk_wonder_description">Stonehenge is a prehistoric monument consisting of a ring of standing stones, believed to have cultural and astronomical significance.</string>
+    <string name="italy_wonder">Wonder : Colosseum</string>
+    <string name="italy_wonder_location">Location : Rome, Italy</string>
+    <string name="italy_wonder_built">Built : 70-80 AD</string>
+    <string name="italy_wonder_description">The Colosseum is an ancient amphitheater in Rome, famous for gladiatorial contests and public spectacles.</string>
+    <string name="france_wonder_image_desc">Image of Mont Saint-Michel</string>
+    <string name="uk_wonder_image_desc">Image of Stonehenge</string>
+    <string name="italy_wonder_image_desc">Image of Colosseum</string>
+</resources>
